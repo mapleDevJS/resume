@@ -24,6 +24,7 @@
       "name": "Global Relay",
       "position": "Intermediate II Software Developer",
       "startDate": "2022-06-30",
+      "endDate": "2023-09-30",
       "highlights": [],
       "summary": "• Enhanced maintainability and scalability by implementing a new frontend architecture, reducing system errors by 20%\n• Strengthened security features by developing a new password selection feature, resulting in a 30% decrease in unauthorized access attempts\n• Empowered users by introducing a feature enabling the selection of stronger and more secure passwords.\n• Contributed to reducing technical debt by refactoring legacy system components, resulting in a 25% increase in system performance\n• Updated and improved design documentation to ensure enhanced project clarity and understanding, resulting in a 20% reduction in development time\n• Addressed a substantial number of security and quality (SQ) issues throughout the past year\n• Managed the successful onboarding of 5 CO-OPs through dedicated mentorship and tailored training programs",
       "url": "https://www.linkedin.com/company/143687",
@@ -46,7 +47,8 @@
       "endDate": "2021-10-31",
       "highlights": [],
       "summary": "• Optimized cloud resource planning for leading banks, resulting in a 15% reduction in resource consumption costs within 6 months\n• Led the transition from class-based to functional components, enhancing application responsiveness by 30%\n• Expanded the existing User Interface (UI) by incorporating additional pipeline parameters\n• Restructured and redeveloped the infrastructure application, transitioning from a class-based approach to functional components, resulting in a 25% reduction in code complexity",
-      "location": "Remote"
+      "location": "Remote",
+      "url": " "
     },
     {
       "name": "HTML Academy",
@@ -55,6 +57,7 @@
       "endDate": "2019-12-31",
       "highlights": [],
       "summary": "• Intensive program covers advanced HTML/CSS (HTML5, LESS/SASS, Gulp), and programming essentials (JavaScript ES6, React, Redux, TypeScript, object-oriented paradigm, architectural concepts, design patterns, Jest unit testing).",
+      "location": "Remote",
       "url": "https://www.linkedin.com/company/3606218"
     }
   ],
