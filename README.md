@@ -1,4 +1,4 @@
-Hosting your resume becomes incredibly simple by leveraging `resume.json` on gist.github.com. For instance, have a look at mine hosted at https://gist.github.com/mapleDevJS/3c39460fb5a68950bc8899fe846fe81f.js. Now it's automatically accessible at https://registry.jsonresume.org/alexeyivanov. Editing your Gist via the online GUI is hassle-free and ensures updates within no time, typically less than a minute!
+Hosting your resume becomes incredibly simple by leveraging `resume.json` on gist.github.com. For instance, have a look at mine hosted at https://gist.github.com/mapleDevJS/3c39460fb5a68950bc8899fe846fe81f. Now it's automatically accessible at https://registry.jsonresume.org/alexeyivanov. Editing your Gist via the online GUI is hassle-free and ensures updates within no time, typically less than a minute!
 
 ## Advanced Usage
 In case you prefer a repository-based approach for your `resume.json`—similar to this sample, you can set up a Github Action for automatic gist updates with the latest `resume.json` from your repo whenever you push.
