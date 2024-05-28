@@ -6,73 +6,58 @@
     "name": "Alexey Ivanov",
     "label": "Front-End / Software / React / Developer",
     "image": "https://avatars.githubusercontent.com/u/25826551?v=4",
-    "summary": "As an accomplished Front-End Developer, I excel in creating robust and dynamic front-end applications using React and TypeScript. Specializing in web development, I excel in creating user-friendly interfaces, optimizing speed, and ensuring scalability for projects. My collaborative approach in agile environments consistently enables me to meet project targets and deadlines while merging UI/UX design principles seamlessly with functional code to deliver visually appealing applications.\n\nMy core competencies encompass React, JavaScript, TypeScript, HTML, and CSS. Recognized for my proficiency in problem-solving, adaptability, meticulous attention to detail, and collaborative nature, I excel in both remote and distributed team settings, ensuring effective communication and collaboration.\n\nBeginning as a junior developer, I embarked on a journey of continuous learning and mastering foundational technologies such as React, JavaScript, and TypeScript. Through hands-on experience, mentorship, and a commitment to staying abreast of industry trends, I progressed to become an intermediate/senior developer, equipped with the expertise, confidence, and leadership skills to tackle complex technical challenges and mentor others.\n\nMy commitment to continuous learning is demonstrated by my enrollment in numerous courses and certifications, including those focused on Node.js, React, GraphQL, and software architecture. This commitment is further underscored by my high rankings in JavaScript, React, front-end development, HTML, and CSS assessments on LinkedIn Skill Assessments.\n\nPassionate about leveraging technology to create impactful solutions, I am always eager to embrace new challenges and adopt emerging technologies. I am actively seeking opportunities to drive innovation in collaborative projects and collaborate with forward-thinking teams.\n\nI am open to new opportunities and would love to collaborate on exciting projects. Please reach out if you're interested in working together.",
     "email": "alexey.ivanov.js@gmail.com",
+    "summary": "As an accomplished Front-End Developer, I excel in creating robust and dynamic front-end applications using React and TypeScript. Specializing in web development, I excel in creating user-friendly interfaces, optimizing speed, and ensuring scalability for projects. My collaborative approach in agile environments consistently enables me to meet project targets and deadlines while merging UI/UX design principles seamlessly with functional code to deliver visually appealing applications.\n\nMy core competencies encompass React, JavaScript, TypeScript, HTML, and CSS. Recognized for my proficiency in problem-solving, adaptability, meticulous attention to detail, and collaborative nature, I excel in both remote and distributed team settings, ensuring effective communication and collaboration.\n\nBeginning as a junior developer, I embarked on a journey of continuous learning and mastering foundational technologies such as React, JavaScript, and TypeScript. Through hands-on experience, mentorship, and a commitment to staying abreast of industry trends, I progressed to become an intermediate/senior developer, equipped with the expertise, confidence, and leadership skills to tackle complex technical challenges and mentor others.\n\nMy commitment to continuous learning is demonstrated by my enrollment in numerous courses and certifications, including those focused on Node.js, React, GraphQL, and software architecture. This commitment is further underscored by my high rankings in JavaScript, React, front-end development, HTML, and CSS assessments on LinkedIn Skill Assessments.\n\nPassionate about leveraging technology to create impactful solutions, I am always eager to embrace new challenges and adopt emerging technologies. I am actively seeking opportunities to drive innovation in collaborative projects and collaborate with forward-thinking teams.\n\nI am open to new opportunities and would love to collaborate on exciting projects. Please reach out if you're interested in working together.",
     "location": {
       "city": "Vancouver",
-      "state": "BC",
+      "region": "BC",
       "countryCode": "Canada"
     },
     "profiles": [
       {
-        "url": "https://www.linkedin.com/in/alexey-ivanov-mapledev/",
+        "network": "LinkedIn",
         "username": "alexey-ivanov-mapledev",
-        "network": "LinkedIn"
+        "url": "https://www.linkedin.com/in/alexey-ivanov-mapledev/"
       },
       {
-        "url": "https://github.com/mapleDevJS",
+        "network": "github",
         "username": "mapleDevJS",
-        "network": "github"
+        "url": "https://github.com/mapleDevJS"
       }
     ]
   },
-  "education": [
-    {
-      "endDate": "1999-09-01",
-      "startDate": "2004-06-27",
-      "area": "Management",
-      "studyType": "Masters",
-      "institution": "State University of Management"
-    },
-    {
-      "endDate": "2019-09-01",
-      "startDate": "2020-09-01",
-      "area": "Software Development",
-      "studyType": "Certificate",
-      "institution": "HTML Academy"
-    }
-  ],
   "skills": [
     {
+      "name": "Frontend",
+      "level": "Intermediate / Senior",
       "keywords": [
         "HTML / JSX",
         "SCSS / CSS / BEM ",
         "Javascript / Typescript",
         "React.js / Next.js",
         "Redux"
-      ],
-      "level": "Intermediate / Senior",
-      "name": "Frontend"
+      ]
     },
     {
+      "name": "Backend",
+      "level": "Beginner",
       "keywords": [
         "Node.js / Nest.js",
         "PHP",
         "Postgres",
         "MongoDb"
-      ],
-      "level": "Beginner",
-      "name": "Backend"
+      ]
     }
   ],
   "work": [
     {
-      "summary": "My key achievements include developing an enhanced frontend architecture, increasing security by introducing new password selection features, reducing technical debt, improving design documentation, and successfully onboarding new co-op students. These contributions have significantly improved system performance, user experience and reduced unauthorized access attempts and development time.",
-      "website": "https://www.globalrelay.com/",
       "name": "Global Relay",
       "location": "Kelowna, BC",
+      "description": "",
       "position": "Intermediate II React Developer",
+      "url": "https://www.globalrelay.com/",
       "startDate": "2022-06-25",
+      "summary": "My key achievements include developing an enhanced frontend architecture, increasing security by introducing new password selection features, reducing technical debt, improving design documentation, and successfully onboarding new co-op students. These contributions have significantly improved system performance, user experience and reduced unauthorized access attempts and development time.",
       "highlights": [
         "The new frontend architecture boosted user experience with 20% fewer system errors and enhanced security features. It also advanced business objectives by improving system longevity, increasing performance by 25%, and reducing development time by 20%",
         "Strengthened security features by developing a new password selection feature, resulting in a 30% decrease in unauthorized access attempts",
@@ -84,22 +69,40 @@
       ]
     }
   ],
+  "education": [
+    {
+      "institution": "State University of Management",
+      "url": "",
+      "area": "Management",
+      "studyType": "Masters",
+      "startDate": "2004-06-27",
+      "endDate": "1999-09-01"
+    },
+    {
+      "institution": "HTML Academy",
+      "url": "",
+      "area": "Software Development",
+      "studyType": "Certificate",
+      "startDate": "2020-09-01",
+      "endDate": "2019-09-01"
+    }
+  ],
   "interests": [
     {
       "name": "Soccer",
-      "keywords": []
+      "keywords": ["Spartak Moscow", "Toronto FC"]
     },
     {
       "name": "Ice Hockey",
-      "keywords": []
+      "keywords": ["Toronto Maple Leafs", "Spartak Moscow", "Lugano HCL"]
     },
     {
       "name": "Formula 1",
-      "keywords": []
+      "keywords": ["Ayrton Senna", "Kimi Raikkonen", "Charles LeClerc"]
     },
     {
       "name": "Chess",
-      "keywords": []
+      "keywords": ["Ian Nepomniachtchi"]
     }
   ]
 }
