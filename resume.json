@@ -67,11 +67,11 @@
   "education": [
     {
       "institution": "State University of Management (SUM)",
-      "url": "",
+      "url": "https://guu.ru/",
       "area": "Management of Organization",
       "studyType": "Bachelor",
-      "startDate": "",
-      "endDate": "",
+      "startDate": "1999-09-01",
+      "endDate": "2004-06-27",
       "score": "4.0",
       "courses": [
         "Management of Organization"
