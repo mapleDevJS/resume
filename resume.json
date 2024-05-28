@@ -15,6 +15,11 @@
     },
     "profiles": [
       {
+        "url": "https://www.linkedin.com/in/alexey-ivanov-mapledev/",
+        "username": "alexey-ivanov-mapledev",
+        "network": "LinkedIn"
+      },
+      {
         "url": "https://github.com/mapleDevJS",
         "username": "mapleDevJS",
         "network": "github"
