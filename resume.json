@@ -72,7 +72,7 @@
       "endDate": "2023-09-12",
       "summary": "— Enhanced maintainability and scalability by implementing a new frontend architecture, reducing system errors by 20%\n— Strengthened security features by developing a new password selection feature, resulting in a 30% decrease in unauthorized access attempts\n— Contributed to reducing technical debt by refactoring legacy system components, resulting in a 25% increase in system performance\n— Updated and improved design documentation to ensure enhanced project clarity and understanding, resulting in a 20% reduction in development time\n— Managed the successful onboarding of 5 CO-OPs through dedicated mentorship and tailored training programs\n",
       "highlights": [
-        "React / Typescript / HTML / SCSS / Docker / Kubernetes / Figma / Jest / React - testing - library / Git"
+        "React / Typescript / HTML / SCSS / Docker / Kubernetes / Figma / Jest / React - testing - library / Git / Webpack"
       ]
     },
     {
@@ -85,7 +85,7 @@
       "endDate": "2022-06-15",
       "summary": "— Contributed to developing a data pipeline monitoring application by creating and improving the API functionality, resulting in a 40% improvement in data processing efficiency\n— Revamped the user interface, resulting in a 40% decrease in user-reported errors, improving overall user experience during interactions with the pipelines\n— Expanded the existing UI by incorporating additional pipeline parameters, leading to a 30% increase in user engagement and interaction with the pipelines\n— Restructured the infrastructure application, transitioning from a class-based approach to functional components\n— Implemented TypeScript and conducted unit testing, resulting in a 30% reduction in bugs and a 20% increase in code coverage for improved code quality and reliability\n",
       "highlights": [
-        "React / Typescript / HTML / SCSS / Jest / React - testing - library / Git"
+        "React / Typescript / HTML / SCSS / Jest / React - testing - library / Git / Webpack"
       ]
     },
     {
@@ -98,7 +98,7 @@
       "endDate": "2021-10-01",
       "summary": "— Optimized cloud resource planning for leading banks, resulting in a 15% reduction in resource consumption costs within 6 months\n— Led the transition from class-based to functional components, enhancing application responsiveness by 30%\n— Expanded the existing User Interface (UI) by incorporating additional pipeline parameters, leading to a 30% increase in user engagement\n",
       "highlights": [
-        "React / Typescript / HTML / SCSS / Redux / Git"
+        "React / Typescript / HTML / SCSS / Redux / Git / Webpack"
       ]
     }
   ],
