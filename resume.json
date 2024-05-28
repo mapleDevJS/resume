@@ -57,13 +57,8 @@
       "position": "Intermediate II React Developer",
       "url": "https://www.globalrelay.com/",
       "startDate": "2022-06-25",
-      "summary": "My key achievements include developing an enhanced frontend architecture, increasing security by introducing new password selection features, reducing technical debt, improving design documentation, and successfully onboarding new co-op students. These contributions have significantly improved system performance, user experience and reduced unauthorized access attempts and development time.",
+      "summary": "My key achievements include developing an enhanced frontend architecture, increasing security by introducing new password selection features, reducing technical debt, improving design documentation, and successfully onboarding new co-op students. These contributions have significantly improved system performance, user experience and reduced unauthorized access attempts and development time.\n \"Enhanced user experience & performance: The implementation of a new frontend architecture not only decreased system errors by 20%, but also improved the longevity, increased overall system performance by 25%, and reduced development time by 20%.\",\n      \"Bolstered Security: Development of an advanced password selection feature resulted in strengthening security and reducing unauthorized access attempts by 30%.\",\n      \"Reduced Technical Debt: Focused efforts on refactoring legacy system components led to a significant 25% rise in system performance\",\n      \"Efficient Project Understanding: By improving design documentation, project clarity was enhanced, leading to a 20% cut in development time.\",\n      \"Team Development: Successfully mentored and onboarded 5 co-op students, contributing to team growth and capacity building.\",",
       "highlights": [
-        "Enhanced user experience & performance: The implementation of a new frontend architecture not only decreased system errors by 20%, but also improved the longevity, increased overall system performance by 25%, and reduced development time by 20%.",
-        "Bolstered Security: Development of an advanced password selection feature resulted in strengthening security and reducing unauthorized access attempts by 30%.",
-        "Reduced Technical Debt: Focused efforts on refactoring legacy system components led to a significant 25% rise in system performance",
-        "Efficient Project Understanding: By improving design documentation, project clarity was enhanced, leading to a 20% cut in development time.",
-        "Team Development: Successfully mentored and onboarded 5 co-op students, contributing to team growth and capacity building.",
         "React / Typescript / HTML / SCSS / Docker / Kubernetes"
       ]
     }
