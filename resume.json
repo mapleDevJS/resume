@@ -43,7 +43,7 @@
         "HTML / JSX",
         "SCSS / CSS / BEM ",
         "Javascript / Typescript",
-        "React / Next",
+        "React.js / Next.js",
         "Redux"
       ],
       "level": "Intermediate / Senior",
@@ -62,7 +62,7 @@
   ],
   "work": [
     {
-      "summary": "• The new frontend architecture boosted user experience with 20% fewer system errors and enhanced security features. It also advanced business objectives by improving system longevity, increasing performance by 25%, and reducing development time by 20%\n• Strengthened security features by developing a new password selection feature, resulting in a 30% decrease in unauthorized access attempts\n• Empowered users by introducing a feature enabling the selection of stronger and more secure passwords.\n• Contributed to reducing technical debt by refactoring legacy system components, resulting in a 25% increase in system performance\n• Updated and improved design documentation to ensure enhanced project clarity and understanding, resulting in a 20% reduction in development time\n• Addressed a substantial number of security and quality (SQ) issues throughout the past year\n• Managed the successful onboarding of 5 CO-OPs through dedicated mentorship and tailored training programs",
+      "summary": "• The new frontend architecture boosted user experience with 20% fewer system errors and enhanced security features. It also advanced business objectives by improving system longevity, increasing performance by 25%, and reducing development time by 20%\n• Strengthened security features by developing a new password selection feature, resulting in a 30% decrease in unauthorized access attempts\n• Empowered users by introducing a feature enabling the selection of stronger and more secure passwords.\n• Contributed to reducing technical debt by refactoring legacy system components, resulting in a 25% increase in system performance\n• Updated and improved design documentation to ensure enhanced project clarity and understanding, resulting in a 20% reduction in development time\n• Addressed a substantial number of security and quality (SQ) issues throughout the past year\n• Managed the successful onboarding of 5 co-op students through dedicated mentorship and tailored training programs",
       "website": "https://www.globalrelay.com/",
       "name": "Global Relay",
       "location": "Kelowna, BC",
