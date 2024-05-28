@@ -7,7 +7,7 @@
     "label": "Front-End / Software / React / Developer",
     "image": "https://avatars.githubusercontent.com/u/25826551?v=4",
     "email": "alexey.ivanov.js@gmail.com",
-    "summary": "As an experienced Front-End Developer, I excel in building robust and dynamic front-end applications using React and TypeScript. Specializing in web development, I focus on creating user-friendly interfaces, optimizing speed, and ensuring scalability for projects. My collaborative approach in agile environments consistently helps me meet project targets and deadlines by seamlessly merging UI/UX design principles with functional code to deliver visually appealing applications.\n\nMy key skills include React, JavaScript, TypeScript, HTML, and CSS. Known for my problem-solving abilities, adaptability, attention to detail, and collaborative nature, I thrive in remote and distributed team settings, ensuring effective communication and collaboration.\nStarting as a junior developer, I embarked on a journey of continuous learning, mastering foundational technologies like React, JavaScript, and TypeScript. Through hands-on experience, mentorship, and staying updated on industry trends, I advanced to become an intermediate/senior developer, equipped with the expertise, confidence, and leadership skills to tackle complex technical challenges and mentor others.\n\nMy dedication to continuous learning is evident through my participation in various courses and certifications, focusing on Node.js, React, GraphQL, and software architecture. This commitment is reinforced by my high rankings in JavaScript, React, front-end development, HTML, and CSS assessments on LinkedIn Skill Assessments.\nPassionate about using technology to create impactful solutions, I am always eager to take on new challenges and embrace emerging technologies. I am actively seeking opportunities to drive innovation in collaborative projects and work with forward-thinking teams.\nI am open to new opportunities and excited to collaborate on exciting projects. Please reach out if you're interested in working together.",
+    "summary": "Frontend / Software Developer with 5+ Years of Experience. Proven track record of optimizing cloud resource utilization for startups, serving clients like Airbnb, Facebook, and leading cloud archiving firms. Expertise in creating dynamic, user-friendly frontend applications using React and TypeScript, harmonizing UI/UX design with robust, scalable code. Excels at driving rapid, appealing application development while maintaining clear communication and a progressive mindset towards new technologies. Passionate about delivering efficient, high-performance cloud solutions that drive business success.",
     "location": {
       "city": "Vancouver",
       "region": "BC",
@@ -51,13 +51,26 @@
   ],
   "work": [
     {
+      "name": "Self Employed",
+      "location": "Kelowna, BC",
+      "description": "As a self-employed software developer, I specialize in crafting e-commerce solutions tailored specifically for online food sales.",
+      "position": "Software Developer",
+      "url": "https://www.linkedin.com/in/alexey-ivanov-mapledev/",
+      "startDate": "2023-09-12",
+      "summary": "— Led creation of e-commerce platform for online food  retail\n— Optimized performance for fast load times and smooth browsing\n— Integrated third-party services and APIs for effective functionality\n",
+      "highlights": [
+        "Next / Typescript / HTML / SCSS / Node/ Express / MongoDB"
+      ]
+    },
+    {
       "name": "Global Relay",
       "location": "Kelowna, BC",
-      "description": "Global Relay is a self-made, profitable technology company that has grown from 4 to over 1,600 employees and 20,000 customers without taking outside investment, building its own high-quality, innovative solutions while promoting an inspiring work culture and demonstrating leadership in environmental and social responsibility.",
+      "description": "Global Relay is a leading provider of cloud-based messaging, archiving, and compliance solutions for the financial services.",
       "position": "Intermediate II React Developer",
       "url": "https://www.globalrelay.com/",
       "startDate": "2022-06-25",
-      "summary": "My key achievements include developing an enhanced frontend architecture, increasing security by introducing new password selection features, reducing technical debt, improving design documentation, and successfully onboarding new co-op students. These contributions have significantly improved system performance, user experience and reduced unauthorized access attempts and development time.\n — Enhanced user experience & performance: The implementation of a new frontend architecture not only decreased system errors by 20%, but also improved the longevity, increased overall system performance by 25%, and reduced development time by 20%.\n — Bolstered Security: Development of an advanced password selection feature resulted in strengthening security and reducing unauthorized access attempts by 30%.\n — Reduced Technical Debt: Focused efforts on refactoring legacy system components led to a significant 25% rise in system performance\n — Efficient Project Understanding: By improving design documentation, project clarity was enhanced, leading to a 20% cut in development time.\n — Team Development: Successfully mentored and onboarded 5 co-op students, contributing to team growth and capacity building.",
+      "endDate": "2023-09-12",
+      "summary": "— Enhanced maintainability and scalability by implementing a new frontend architecture, reducing system errors by 20%\n— Strengthened security features by developing a new password selection feature, resulting in a 30% decrease in unauthorized access attempts\n— Contributed to reducing technical debt by refactoring legacy system components, resulting in a 25% increase in system performance\n— Updated and improved design documentation to ensure enhanced project clarity and understanding, resulting in a 20% reduction in development time\n— Managed the successful onboarding of 5 CO-OPs through dedicated mentorship and tailored training programs\n",
       "highlights": [
         "React / Typescript / HTML / SCSS / Docker / Kubernetes"
       ]
@@ -79,24 +92,6 @@
       "studyType": "Certificate",
       "startDate": "2019-09-01",
       "endDate": "2020-09-01"
-    }
-  ],
-  "interests": [
-    {
-      "name": "Soccer",
-      "keywords": ["Spartak Moscow", "Toronto FC"]
-    },
-    {
-      "name": "Ice Hockey",
-      "keywords": ["Toronto Maple Leafs / Spartak Moscow / Lugano HCL"]
-    },
-    {
-      "name": "Formula 1",
-      "keywords": ["Ayrton Senna / Kimi Raikkonen / Charles LeClerc"]
-    },
-    {
-      "name": "Chess",
-      "keywords": ["Ian Nepomniachtchi"]
     }
   ]
 }
