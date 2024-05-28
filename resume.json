@@ -81,11 +81,24 @@
       "description": "Top-1 global engineering and digital services company",
       "position": "Senior Software Developer",
       "url": "https://www.capgemini.com/ca-en/",
-      "startDate": "2022-10-01",
-      "endDate": "2023-06-15",
+      "startDate": "2021-10-01",
+      "endDate": "2022-06-15",
       "summary": "— Contributed to developing a data pipeline monitoring application by creating and improving the API functionality, resulting in a 40% improvement in data processing efficiency\n— Revamped the user interface, resulting in a 40% decrease in user-reported errors, improving overall user experience during interactions with the pipelines\n— Expanded the existing UI by incorporating additional pipeline parameters, leading to a 30% increase in user engagement and interaction with the pipelines\n— Restructured the infrastructure application, transitioning from a class-based approach to functional components\n— Implemented TypeScript and conducted unit testing, resulting in a 30% reduction in bugs and a 20% increase in code coverage for improved code quality and reliability\n",
       "highlights": [
         "React / Typescript / HTML / SCSS / Jest / React - testing - library / Git"
+      ]
+    },
+    {
+      "name": "Barsum Cloud Analytics",
+      "location": "Remote",
+      "description": "A leader in the Russian market, which designs software that helps banks run and save money in managing the\u00ADir cloud systems",
+      "position": "Frontend Developer",
+      "url": "https://www.linkedin.com/in/alexey-ivanov-mapledev/",
+      "startDate": "2019-11-01",
+      "endDate": "2021-10-01",
+      "summary": "— Optimized cloud resource planning for leading banks, resulting in a 15% reduction in resource consumption costs within 6 months\n— Led the transition from class-based to functional components, enhancing application responsiveness by 30%\n— Expanded the existing User Interface (UI) by incorporating additional pipeline parameters, leading to a 30% increase in user engagement\n",
+      "highlights": [
+        "React / Typescript / HTML / SCSS / Redux / Git"
       ]
     }
   ],
