@@ -350,7 +350,24 @@
       "language": "Russian"
     }
   ],
-  "interests": ["Soccer", "Ice Hockey", "Chess", "Formula 1"],
+  "interests": [
+    {
+      "type": "Soccer",
+      "description": "I enjoy the teamwork and strategy involved in soccer. There's nothing like the thrill of scoring a goal after a well-executed play."
+    },
+    {
+      "type": "Ice Hockey",
+      "description": "Ice hockey offers a fantastic blend of speed, skill, and intensity which I find exhilarating to watch and play."
+    },
+    {
+      "type": "Chess",
+      "description": "Chess is a game of deep complexity and elegance that fascinates me. It's a relaxing way to train my logical thinking and strategy skills."
+    },
+    {
+      "type": "Formula 1",
+      "description": "The high-speed thrill of Formula 1 racing draws me in every time. It's not just about the drivers’ skill, but also the strategy and technology behind the scenes fascinate me."
+    }
+  ],
   "projects": [],
   "certificates": [
     {
