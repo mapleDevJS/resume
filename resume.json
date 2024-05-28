@@ -23,6 +23,11 @@
         "network": "github",
         "username": "mapleDevJS",
         "url": "https://github.com/mapleDevJS"
+      },
+      {
+        "network": "codewars",
+        "username": "fcsmJS",
+        "url": "https://www.codewars.com/users/fcsmJS"
       }
     ]
   },
