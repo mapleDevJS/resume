@@ -11,7 +11,7 @@
     "location": {
       "city": "Vancouver",
       "state": "BC",
-      "country": "Canada"
+      "countryCode": "Canada"
     },
     "profiles": [
       {
