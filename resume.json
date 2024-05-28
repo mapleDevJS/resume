@@ -53,7 +53,7 @@
     {
       "name": "Global Relay",
       "location": "Kelowna, BC",
-      "description": "",
+      "description": "Global Relay is a self-made, profitable technology company that has grown from 4 to over 1,600 employees and 20,000 customers without taking outside investment, building its own high-quality, innovative solutions while promoting an inspiring work culture and demonstrating leadership in environmental and social responsibility.",
       "position": "Intermediate II React Developer",
       "url": "https://www.globalrelay.com/",
       "startDate": "2022-06-25",
@@ -75,16 +75,16 @@
       "url": "https://guu.ru/language/en/",
       "area": "Management",
       "studyType": "Masters",
-      "startDate": "2004-06-27",
-      "endDate": "1999-09-01"
+      "startDate": "1999-09-01",
+      "endDate": "2004-06-27"
     },
     {
       "institution": "HTML Academy",
       "url": "https://htmlacademy.org/",
       "area": "Software Development",
       "studyType": "Certificate",
-      "startDate": "2020-09-01",
-      "endDate": "2019-09-01"
+      "startDate": "2019-09-01",
+      "endDate": "2020-09-01"
     }
   ],
   "interests": [
