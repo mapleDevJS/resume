@@ -350,13 +350,7 @@
       "language": "Russian"
     }
   ],
-  "interests": [],
-  "references": [
-    {
-      "name": "Neil Johnson",
-      "reference": "Exib have worked with Alexey..."
-    }
-  ],
+  "interests": ["Soccer", "Ice Hockey", "Chess", "Formula 1"],
   "projects": [],
   "certificates": [
     {
