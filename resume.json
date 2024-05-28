@@ -19,6 +19,11 @@
         "network": "LinkedIn",
         "username": "alexey-ivanov-mapledev",
         "url": "https://www.linkedin.com/in/alexey-ivanov-mapledev/"
+      },
+      {
+        "network": "Github",
+        "username": "mapleDevJS",
+        "url": "https://github.com/mapleDevJS"
       }
     ]
   },
