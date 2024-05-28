@@ -4,367 +4,93 @@
   },
   "basics": {
     "name": "Alexey Ivanov",
-    "label": "Front-End / Software Developer",
+    "label": "Front-End / Software / React / Developer",
     "image": "https://avatars.githubusercontent.com/u/25826551?v=4",
+    "summary": "As an accomplished Front-End Developer, I excel in creating robust and dynamic front-end applications using React and TypeScript. Specializing in web development, I excel in creating user-friendly interfaces, optimizing speed, and ensuring scalability for projects. My collaborative approach in agile environments consistently enables me to meet project targets and deadlines while merging UI/UX design principles seamlessly with functional code to deliver visually appealing applications.\n\nMy core competencies encompass React, JavaScript, TypeScript, HTML, and CSS. Recognized for my proficiency in problem-solving, adaptability, meticulous attention to detail, and collaborative nature, I excel in both in remote and distributed team settings, ensuring effective communication and collaboration.\n\nCommencing as a junior developer, I began a journey of continuous learning and mastering foundational technologies such as React, JavaScript, and TypeScript. Through hands-on experience, mentorship, and a commitment to staying abreast of industry trends, I progressed to become an intermediate/senior developer, equipped with the expertise, confidence, and leadership skills to tackle complex technical challenges and mentor others.\n\nMy commitment to continuous learning is demonstrated by my enrollment in numerous courses and certifications, including those focused on Node.js, React, GraphQL, and software architecture. This commitment is further underscored by my high rankings in JavaScript, React, front-end development, HTML, and CSS assessments on LinkedIn Skill Assessments.\n\nPassionate about leveraging technology to create impactful solutions, I am always eager to embrace new challenges and adopt emerging technologies. I am actively seeking opportunities to drive innovation in collaborative projects and collaborate with forward-thinking teams.\n\nOpen to new opportunities! Let's collaborate on exciting projects. Reach out if you're interested in working together.",
     "email": "alexey.ivanov.js@gmail.com",
-    "phone": "4166557223",
-    "url": "https://www.linkedin.com/in/alexey-ivanov-mapledev/",
-    "summary": "As an accomplished Front-end Developer, I excel in creating robust and dynamic front-end applications using React and TypeScript. Specializing in web development, I excel in creating user-friendly interfaces, optimizing speed, and ensuring scalability for projects. My collaborative approach in agile environments consistently enables me to meet project targets and deadlines while merging UI/UX design principles seamlessly with functional code to deliver visually appealing applications.\n\nMy core competencies encompass React, JavaScript, TypeScript, HTML, and CSS. Recognized for my proficiency in problem-solving, adaptability, meticulous attention to detail, and collaborative nature, I excel in both in remote and distributed team settings, ensuring effective communication and collaboration.\n\nCommencing as a junior developer, I began a journey of continuous learning and mastering foundational technologies such as React, JavaScript, and TypeScript. Through hands-on experience, mentorship, and a commitment to staying abreast of industry trends, I progressed to become an intermediate/senior developer, equipped with the expertise, confidence, and leadership skills to tackle complex technical challenges and mentor others.\n\nMy commitment to continuous learning is demonstrated by my enrollment in numerous courses and certifications, including those focused on Node.js, React, GraphQL, and software architecture. This commitment is further underscored by my high rankings in JavaScript, React, front-end development, HTML, and CSS assessments on LinkedIn Skill Assessments.\n\nPassionate about leveraging technology to create impactful solutions, I am always eager to embrace new challenges and adopt emerging technologies. I am actively seeking opportunities to drive innovation in collaborative projects and collaborate with forward-thinking teams.\n\nOpen to new opportunities! Let's collaborate on exciting projects. Reach out if you're interested in working together.",
     "location": {
       "city": "Vancouver",
-      "countryCode": "Canada",
-      "region": "BC"
+      "state": "BC",
+      "country": "Canada"
     },
     "profiles": [
       {
-        "network": "LinkedIn",
-        "username": "alexey-ivanov-mapledev",
-        "url": "https://www.linkedin.com/in/alexey-ivanov-mapledev/"
-      },
-      {
-        "network": "Github",
+        "url": "https://github.com/mapleDevJS",
         "username": "mapleDevJS",
-        "url": "https://github.com/mapleDevJS"
+        "network": "github"
       }
     ]
   },
-  "work": [
-    {
-      "name": "Global Relay",
-      "position": "Intermediate II Software Developer",
-      "url": "https://www.linkedin.com/company/143687",
-      "startDate": "2022-06-30",
-      "endDate": "2023-09-30",
-      "summary": "• The new frontend architecture boosted user experience with 20% fewer system errors and enhanced security features. It also advanced business objectives by improving system longevity, increasing performance by 25%, and reducing development time by 20%\n• Strengthened security features by developing a new password selection feature, resulting in a 30% decrease in unauthorized access attempts\n• Empowered users by introducing a feature enabling the selection of stronger and more secure passwords.\n• Contributed to reducing technical debt by refactoring legacy system components, resulting in a 25% increase in system performance\n• Updated and improved design documentation to ensure enhanced project clarity and understanding, resulting in a 20% reduction in development time\n• Addressed a substantial number of security and quality (SQ) issues throughout the past year\n• Managed the successful onboarding of 5 CO-OPs through dedicated mentorship and tailored training programs",
-      "highlights": []
-    },
-    {
-      "name": "Capgemini Engineering",
-      "position": "Senior Software Developer",
-      "startDate": "2021-10-31",
-      "endDate": "2022-06-30",
-      "highlights": [],
-      "summary": "• Contributed to developing a data pipeline monitoring application by creating and improving the API functionality, resulting in a 40% improvement in data processing efficiency\n• he revamped user interface has led to significant improvements in the application. User-reported errors dropped by 40%, and user engagement increased by 30% due to additional pipeline parameters in the UI. Also, a shift to functional components and TypeScript has made the application more efficient and reliable, leading to a 30% reduction in bugs.\n• Expanded the existing UI by incorporating additional pipeline parameters, leading to a 30% increase in user engagement and interaction with the pipelines\n• Restructured and redeveloped the infrastructure application, transitioning from a class-based approach to functional components\n• Implemented TypeScript and conducted unit testing resulting in a 30% reduction in bugs and a 20% increase in code coverage for improved code quality and reliability",
-      "url": "https://www.linkedin.com/company/72092703",
-      "location": "Toronto, Ontario, Canada"
-    },
-    {
-      "name": "Barsum Cloud Analytics",
-      "position": "Software Developer",
-      "startDate": "2019-11-30",
-      "endDate": "2021-10-31",
-      "highlights": [],
-      "summary": "• Optimized cloud resource planning for leading banks, resulting in a 15% reduction in resource consumption costs within 6 months\n• Expanded the existing User Interface (UI) by incorporating additional pipeline parameters\n• Restructured and redeveloped the infrastructure application, transitioning from a class-based approach to functional components, resulting in a 25% reduction in code complexity",
-      "location": "Remote",
-      "url": "https://www.linkedin.com"
-    },
-    {
-      "name": "HTML Academy",
-      "position": "Front-end Developer",
-      "startDate": "2018-12-31",
-      "endDate": "2019-12-31",
-      "highlights": [],
-      "summary": "• Intensive program covers advanced HTML/CSS (HTML5, LESS/SASS, Gulp), and programming essentials (JavaScript ES6, React, Redux, TypeScript, object-oriented paradigm, architectural concepts, design patterns, Jest unit testing).\n•  The provided program strengthens your development capabilities extensively. It covers a wide range of important topics in web development such as advanced HTML/CSS, JavaScript ES6, React, Redux, and TypeScript. It also includes object-oriented programming principles, key architectural concepts and design patterns. Lastly, it introduces Jest for unit testing. All these skills together make you well-rounded in modern web development, thus considerably enhancing your development capabilities. ",
-      "location": "Remote",
-      "url": "https://www.linkedin.com/company/3606218"
-    }
-  ],
-  "volunteer": [],
   "education": [
     {
-      "institution": "State University of Management (SUM)",
-      "url": "https://guu.ru/",
-      "area": "Management of Organization",
-      "studyType": "Bachelor",
-      "startDate": "1999-09-01",
-      "endDate": "2004-06-27",
-      "score": "4.0",
-      "courses": [
-        "Management of Organization"
-      ]
+      "endDate": "1999-09-01",
+      "startDate": "2004-06-27",
+      "area": "Management",
+      "studyType": "Masters",
+      "institution": "State University of Management"
+    },
+    {
+      "endDate": "2019-09-01",
+      "startDate": "2020-09-01",
+      "area": "Software Development",
+      "studyType": "Certificate",
+      "institution": "HTML Academy"
     }
   ],
-  "awards": [],
-  "publications": [],
   "skills": [
     {
-      "name": "Next.js",
-      "level": "",
-      "keywords": []
+      "keywords": [
+        "HTML / JSX",
+        "SCSS / CSS / BEM ",
+        "Javascript / Typescript",
+        "React / Next",
+        "Redux"
+      ],
+      "level": "Intermediate / Senior",
+      "name": "Frontend"
     },
     {
-      "name": "NodeJs",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Tailwind CSS",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Jest",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Git",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Retrospectives",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "HTML",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Redux.js",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Testing Practices",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Bitbucket",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Domain-Driven Design (DDD)",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Kubernetes",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "MongoDB",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Object-Oriented Programming (OOP)",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "TypeScript",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "HTML5",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Front-end Development",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "GitHub",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "CSS",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "React.js",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "SASS",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "ESLint",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Figma",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Sonarqube",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Travis CI",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "PHP",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Gitlab",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Jenkins",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Webpack",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "SCSS",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Code Review",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Continuous Integration and Continuous Delivery (CI/CD)",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Node.js",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Gulp",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "JavaScript",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Express.js",
-      "level": "",
-      "keywords": []
+      "keywords": [
+        "Node",
+        "PHP",
+        "Postgres",
+        "MongoDb"
+      ],
+      "level": "Beginner",
+      "name": "Backend"
     }
   ],
-  "languages": [
+  "work": [
     {
-      "fluency": "Full Professional",
-      "language": "English"
-    },
-    {
-      "fluency": "Professional Working",
-      "language": "Bulgarian"
-    },
-    {
-      "fluency": "Elementary",
-      "language": "German"
-    },
-    {
-      "fluency": "Native Speaker",
-      "language": "Russian"
+      "summary": "• The new frontend architecture boosted user experience with 20% fewer system errors and enhanced security features. It also advanced business objectives by improving system longevity, increasing performance by 25%, and reducing development time by 20%\n• Strengthened security features by developing a new password selection feature, resulting in a 30% decrease in unauthorized access attempts\n• Empowered users by introducing a feature enabling the selection of stronger and more secure passwords.\n• Contributed to reducing technical debt by refactoring legacy system components, resulting in a 25% increase in system performance\n• Updated and improved design documentation to ensure enhanced project clarity and understanding, resulting in a 20% reduction in development time\n• Addressed a substantial number of security and quality (SQ) issues throughout the past year\n• Managed the successful onboarding of 5 CO-OPs through dedicated mentorship and tailored training programs",
+      "website": "https://www.globalrelay.com/",
+      "name": "Global Relay",
+      "location": "Kelowna, BC",
+      "position": "Intermediate II React Developer",
+      "startDate": "2022-06-25",
+      "highlights": [
+        "React",
+        "Typescript",
+        "SCSS"
+      ]
     }
   ],
   "interests": [
     {
       "name": "Soccer",
-      "description": "I enjoy the teamwork and strategy involved in soccer. There's nothing like the thrill of scoring a goal after a well-executed play."
+      "keywords": []
     },
     {
       "name": "Ice Hockey",
-      "description": "Ice hockey offers a fantastic blend of speed, skill, and intensity which I find exhilarating to watch and play."
-    },
-    {
-      "name": "Chess",
-      "description": "Chess is a game of deep complexity and elegance that fascinates me. It's a relaxing way to train my logical thinking and strategy skills."
+      "keywords": []
     },
     {
       "name": "Formula 1",
-      "description": "The high-speed thrill of Formula 1 racing draws me in every time. It's not just about the drivers’ skill, but also the strategy and technology behind the scenes fascinate me."
-    }
-  ],
-  "projects": [],
-  "certificates": [
-    {
-      "name": "JavaScript",
-      "issuer": "HackerRank",
-      "startDate": "2020-09-30",
-      "url": "https://www.hackerrank.com/certificates/67a237f16ed1"
+      "keywords": []
     },
     {
-      "name": "React",
-      "issuer": "Pluralsight",
-      "startDate": "2020-10-31",
-      "url": "https://app.pluralsight.com/learner/user/courses/react-js-getting-started/certificate"
-    },
-    {
-      "name": "Learning Node.js",
-      "issuer": "LinkedIn",
-      "startDate": "2021-04-30",
-      "url": "https://www.linkedin.com/learning/certificates/ec7d9ebf141b79d1493342d0695d247292ab77a76b59659e2b4ef39ac39bf4fc?trk=backfilled_certificate"
-    },
-    {
-      "name": "Node.js Essential Training",
-      "issuer": "LinkedIn",
-      "startDate": "2021-05-31",
-      "url": "https://www.linkedin.com/learning/certificates/638199b3241e459d7547c9aee3c15da16d389b6c9de977d48dae1ea2c1277af8?trk=backfilled_certificate"
-    },
-    {
-      "name": "Learning npm the Node Package Manager",
-      "issuer": "LinkedIn",
-      "startDate": "2021-05-31",
-      "url": "https://www.linkedin.com/learning/certificates/91c9a07d747aa9e055d81623f20ba4c0d8a999ba0e7348a5adffc10e6b53c20b?trk=backfilled_certificate"
-    },
-    {
-      "name": "Building a Website with Node.js and Express.js",
-      "issuer": "LinkedIn",
-      "startDate": "2021-05-31",
-      "url": "https://www.linkedin.com/learning/certificates/967d4fc21ead85c573f09ded5e9295b5cde7a23b4631fab67a93cdbb3e1bfb74?trk=backfilled_certificate"
-    },
-    {
-      "name": "Databases for Node.js Developers",
-      "issuer": "LinkedIn",
-      "startDate": "2021-05-31",
-      "url": "https://www.linkedin.com/learning/certificates/95086f2f776636d8b12562dd9d8912a8a949913bf10786cd5d70b919c79b51a1?trk=backfilled_certificate"
-    },
-    {
-      "name": "Express Essential Training",
-      "issuer": "LinkedIn",
-      "startDate": "2021-05-31",
-      "url": "https://www.linkedin.com/learning/certificates/0b450bf3097e5147f3135d934dd83b682bc730de0268132c303a8ca41dc0dfcf?trk=backfilled_certificate"
-    },
-    {
-      "name": "Node.js: Securing RESTful APIs",
-      "issuer": "LinkedIn",
-      "startDate": "2021-05-31",
-      "url": "https://www.linkedin.com/learning/certificates/c52c0210514cb698d61b52dccaadba59ccbeb86071790c24e200ac3ad5294006?trk=backfilled_certificate"
-    },
-    {
-      "name": "Node.js: Security",
-      "issuer": "LinkedIn",
-      "startDate": "2021-05-31",
-      "url": "https://www.linkedin.com/learning/certificates/2001e4727564876d21fa351eaf6481fbe540b6b5e7400b4c2a78742924f0a9d7?trk=backfilled_certificate"
+      "name": "Chess",
+      "keywords": []
     }
   ]
 }
