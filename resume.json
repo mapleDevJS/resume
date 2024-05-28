@@ -23,11 +23,6 @@
         "network": "github",
         "username": "mapleDevJS",
         "url": "https://github.com/mapleDevJS"
-      },
-      {
-        "network": "codewars",
-        "username": "fcsmJS",
-        "url": "https://www.codewars.com/users/fcsmJS"
       }
     ]
   },
@@ -36,21 +31,25 @@
       "name": "Frontend",
       "level": "Intermediate / Senior",
       "keywords": [
-        "HTML / JSX",
-        "SCSS / CSS / BEM ",
-        "Javascript / Typescript",
-        "React.js / Next.js",
-        "Redux"
+        "React", "JavaScript", "TypeScript", "Redux", "Next.js", "HTML, CSS/SCSS", "Jest", "React-Testing-Library", "Webpack"
       ]
     },
     {
       "name": "Backend",
       "level": "Beginner",
       "keywords": [
-        "Node.js / Nest.js",
+        "Node.js / Express.js",
+        "Nest.js",
         "PHP",
         "Postgres",
         "MongoDb"
+      ]
+    },
+    {
+      "name": "DevOps",
+      "level": "Beginner",
+      "keywords": [
+        "Git", "npm/yarn", "GitHub/Bitbucket/Gitlab", "Jenkins", "Travis", "Docker", "Kubernetes"
       ]
     }
   ],
