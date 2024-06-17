@@ -69,12 +69,12 @@
     {
       "name": "Global Relay",
       "location": "Kelowna, BC",
-      "description": "Global Relay is a leading provider of cloud-based messaging, archiving, and compliance solutions for the financial services.",
+      "description": "Global Relay is a leading provider of cloud-based messaging, archiving, and compliance solutions for the financial services industry, committed to implementing best practices and fostering a collaborative, clean environment to ensure optimal performance and security.",
       "position": "Intermediate II React Developer",
       "url": "https://www.globalrelay.com/",
       "startDate": "2022-06-25",
       "endDate": "2023-09-12",
-      "summary": "— Enhanced maintainability and scalability by implementing a new frontend architecture, reducing system errors by 20%\n— Strengthened security features by developing a new password selection feature, resulting in a 30% decrease in unauthorized access attempts\n— Contributed to reducing technical debt by refactoring legacy system components, resulting in a 25% increase in system performance\n— Updated and improved design documentation to ensure enhanced project clarity and understanding, resulting in a 20% reduction in development time\n— Managed the successful onboarding of 5 CO-OPs through dedicated mentorship and tailored training programs\n",
+      "summary": "— Enhanced maintainability and scalability by implementing a new frontend architecture, reducing system errors by 20% through collaborative teamwork and optimization, including rigorous code review and unit testing.\n— Strengthened security features by developing a new password selection feature, resulting in a 30% decrease in unauthorized access attempts, showcasing best practices in security with thorough unit testing.\n— Empowered users by introducing a feature enabling the selection of stronger and more secure passwords, implementing industry best practices with comprehensive unit tests.\n— Contributed to reducing technical debt by refactoring legacy system components, resulting in a 25% increase in system performance through effective optimization and extensive unit testing.\n— Updated and improved design documentation to ensure enhanced project clarity and understanding, resulting in a 20% reduction in development time, emphasizing best practices in documentation alongside thorough unit testing.\n— Addressed a substantial number of security and quality (SQ) issues throughout the past year through collaborative debugging efforts and comprehensive unit testing.\n— Managed the successful onboarding of 5 CO-OPs through dedicated mentorship and tailored training programs, enhancing teamwork and collaborative learning.",
       "highlights": [
         "React / Typescript / HTML / SCSS / Docker / Kubernetes / Figma / Jest / React - testing - library / Git / Webpack"
       ]
