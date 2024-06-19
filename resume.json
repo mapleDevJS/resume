@@ -7,7 +7,7 @@
     "label": "Front-End / Software / React / Developer",
     "image": "https://avatars.githubusercontent.com/u/25826551?v=4",
     "email": "alexey.ivanov.js@gmail.com",
-    "summary": "Software Developer with over 5 years of experience, specializing in efficient cloud resource optimization for high-profile clients like Airbnb and Facebook. Demonstrates proficiency in building user-focused frontend applications with React and TypeScript, seamlessly uniting UI/UX design and robust code. Committed to promoting fast-paced application development through clear communication and an innovative approach to new technologies. Passionate about crafting high-performance cloud solutions that bolster business success.",
+    "summary": "A Frontend/Software Developer with over 5 years of experience in enterprise and startup settings; specializing in ReactJS and TypeScript, with a strong skill set toward a number of tech stacks for dynamic and scalable frontends. Known for cloud resource optimization and creative problem- solving for Airbnb, Facebook, and other clients, enhancing system performance, security, and scalability.",
     "location": {
       "city": "Vancouver",
       "region": "BC",
@@ -61,7 +61,7 @@
       "position": "Software Developer",
       "url": "https://www.linkedin.com/in/alexey-ivanov-mapledev/",
       "startDate": "2023-09-12",
-      "summary": "— Led creation of e-commerce platforms, enhancing online food retail sales by 30%.\n— Optimized performance for fast load times, reducing bounce rates by 25%.\n— Integrated third-party services and APIs, streamlining checkout processes and increasing customer satisfaction.\n",
+      "summary": "— Led development of e-commerce platforms resulting in a 20% increase in online food retail sales",
       "highlights": [
         "Next / Typescript / HTML / SCSS / Node/ Express / MongoDB"
       ]
@@ -74,7 +74,7 @@
       "url": "https://www.globalrelay.com/",
       "startDate": "2022-06-25",
       "endDate": "2023-09-12",
-      "summary": "— Enhanced maintainability and scalability by implementing a new frontend architecture, reducing system errors by 20% through collaborative teamwork and optimization, including rigorous code review and unit testing.\n— Strengthened security features by developing a new password selection feature, resulting in a 30% decrease in unauthorized access attempts, showcasing best practices in security with thorough unit testing.\n— Empowered users by introducing a feature enabling the selection of stronger and more secure passwords, implementing industry best practices with comprehensive unit tests.\n— Contributed to reducing technical debt by refactoring legacy system components, resulting in a 25% increase in system performance through effective optimization and extensive unit testing.\n— Updated and improved design documentation to ensure enhanced project clarity and understanding, resulting in a 20% reduction in development time, emphasizing best practices in documentation alongside thorough unit testing.\n— Addressed a substantial number of security and quality (SQ) issues throughout the past year through collaborative debugging efforts and comprehensive unit testing.\n— Managed the successful onboarding of 5 CO-OPs through dedicated mentorship and tailored training programs, enhancing teamwork and collaborative learning.",
+      "summary": "— Improved the maintainability and scalability of a new frontend architecture, and reduced system errors by 20% through collaborative\nteamwork and optimization that included rigorous code review and unit testing.\n— Empowered users by implementing the functionality that would allow them to choose stronger and more secure passwords, using the best practices of the respective industry with full unit tests.\n— Reduced technical debt by refactoring legacy system components; achieved a 25% increase in system performance due to effective optimization and extensive unit testing.\n— Improved documentation of the design, updated and made the distinctness in the project more transparent and easier to understand, thus giving 20% development time back through the emphasis on best practices with respect to documentation and strict unit testing.\n— Over the past year, he addressed a large number of security and quality issues through collaborative debugging and detailed unit testing.\n— Managed the onboarding of 5 CO-OPs through dedicated mentorship and individualized training programs that promoted teamwork and collaborative learning.",
       "highlights": [
         "React / Typescript / HTML / SCSS / Docker / Kubernetes / Figma / Jest / React - testing - library / Git / Webpack"
       ]
@@ -87,7 +87,7 @@
       "url": "https://www.capgemini.com/ca-en/",
       "startDate": "2021-10-01",
       "endDate": "2022-06-15",
-      "summary": "— Contributed to developing a data pipeline monitoring application by creating and improving the API functionality, resulting in a 40% improvement in data processing efficiency.\n— Revamped the user interface, achieving a 40% decrease in user-reported errors, enhancing user experience with the pipelines.\n— Expanded UI with additional pipeline parameters, boosting user engagement by 30%.\n— Restructured the infrastructure application, transitioning from a class-based approach to functional components\n— Restructured application infrastructure to functional components/hooks.\n— Implemented TypeScript and rigorously conducted unit testing, reducing bugs by 30% and increasing code coverage by 20%, ensuring robust code quality and reliability.",
+      "summary": "— Contributed to developing a data pipeline monitoring application by creating and improving the API functionality, resulting in a 40% improvement in data processing efficiency.\n— Expanded UI with additional pipeline parameters, boosting user engagement by 30%.\n— Restructured application infrastructure to functional components/hooks.\n— Implemented TypeScript and rigorously conducted unit testing, reducing bugs by 30% and increasing code coverage by 20%, ensuring robust code quality and reliability.",
       "highlights": [
         "React / Typescript / HTML / SCSS / Jest / React - testing - library / Git / Webpack"
       ]
@@ -100,7 +100,7 @@
       "url": "https://www.linkedin.com/in/alexey-ivanov-mapledev/",
       "startDate": "2019-11-01",
       "endDate": "2021-10-01",
-      "summary": "— Optimized cloud resource planning for leading banks, resulting in a 15% reduction in resource consumption costs within 6 months\n— Led the transition from class-based to functional components, enhancing application responsiveness by 30%\n— Expanded the existing User Interface (UI) by incorporating additional pipeline parameters\n— Restructured and redeveloped the infrastructure application, transitioning from a class-based approach to functional ",
+      "summary": "— Developed applications for the largest banks, optimized cloud resource consumption by 25%, reducing operational costs.\n— Designed and developed user interfaces, increasing user satisfaction by 30% with the integration of seamless backends for data retrieval and presentation.\n— Implemented business logic to calculate total resource consumption, thus enabled the performance of effective mass user operations, thereby reducing processing time by 20%.",
       "highlights": [
         "React / Typescript / HTML / SCSS / Redux / Git / Webpack"
       ]
